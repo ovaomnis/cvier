@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(poetry run gh-pr-fetch fetch:*)",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
